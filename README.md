@@ -37,3 +37,15 @@ The application has two primary functions:
     1.  **Right-click** the application's icon in the system tray.
     2.  From the menu, you can enable/disable starting with Windows, go to the support page, or exit the application.
 
+
+
+
+#Please check out my other app:
+
+#PlayFolder - Plays a folder of content all with one unified tracking bar destinguished by unique colors.
+
+https://github.com/Noct-GIT/PlayFolder/tree/main
+
+and here is a preview image of it:
+
+![Screenshot](https://github.com/Noct-GIT/PlayFolder/blob/main/screenshot.png)
