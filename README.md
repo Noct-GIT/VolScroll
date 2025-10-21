@@ -37,8 +37,13 @@ The application has two primary functions:
     1.  **Right-click** the application's icon in the system tray.
     2.  From the menu, you can enable/disable starting with Windows, go to the support page, or exit the application.
 
-
-
+|
+|
+|
+|
+|
+|
+|
 
 ## Please check out my other app
 
