@@ -45,9 +45,10 @@ The application has two primary functions:
 |
 |
 
-## Please check out my other app
+Please check out my other app too
 
-## PlayFolder - Plays a folder of content all with one unified tracking bar destinguished by unique colors.
+## PlayFolder
+Plays a folder of content all with one unified tracking bar destinguished by unique colors.
 
 https://github.com/Noct-GIT/PlayFolder/tree/main
 
