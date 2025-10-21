@@ -20,7 +20,7 @@ A lightweight Windows utility that lets you control the volume of any applicatio
 
 Getting started is easy. No installer is required.
 
-1.  **Download:** Download the .zip file
+1.  **Download:** Download the .zip file from the Releases section of GitHub (usually on the right side) click on 1.0 and download the .zip file.
 2.  **Extract the folder and place it wherever you want it.
 3.  **Run the App:** Double-click the `.exe` to start it. You will see its icon appear in your system tray. If you have difficulty getting it working on some apps you may want to run it as Administrator.
 4.  **Enable Startup (Recommended):** Right-click the new tray icon and select **"Start with Windows"**. This will ensure the app runs automatically every time you turn on your computer.
