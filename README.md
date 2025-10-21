@@ -13,7 +13,6 @@ A lightweight Windows utility that lets you control the volume of any applicatio
 *   **Hover to Control:** Adjust the volume of **any window** by simply hovering your mouse over its top ~40 pixels and scrolling your mouse wheel.
 *   **Works on Unfocused Windows:** Change the volume of background applications without needing to click on them first.
 *   **System Tray Integration:** Runs silently in your system tray (the area by the clock) and uses minimal resources.
-*   **Custom Icon Support:** Automatically processes a standard image (`icon.png`) into a professional, transparent icon for the system tray.
 *   **Start with Windows:** A simple right-click option to enable or disable the app from launching automatically when you log in.
 *   **Lightweight & Portable:** The entire application is a single `.exe` file that requires no installation.
 
