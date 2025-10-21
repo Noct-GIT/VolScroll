@@ -6,7 +6,7 @@ Use mousewheel to change app volume by hovering over titlebar and scrolling up o
 
 A lightweight Windows utility that lets you control the volume of any application just by hovering your mouse over its title bar and scrolling.
 
-> **Pro Tip:** Create a short GIF showing the app in action and place it here. A visual demo is the best way to show users how it works!
+> **SCREENSHOT:** This is where I would share a screenshot of it working for you. But this app has no gui. It is completely invisible except for the taskbar icon. Don't forget its there!
 
 ## ✨ Features
 
